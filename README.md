@@ -50,4 +50,12 @@ Customer profiling and revenue concentration analysis:
 Data Analysis · Power BI · DAX · Power Query · Data Modeling · Credit Risk Analytics · Business Intelligence · Dashboard Design · Segmentation Analysis
 
 ## 📎 Files
+
+<img width="971" height="597" alt="image" src="https://github.com/user-attachments/assets/073254ca-0dc3-4e47-9857-aae771247df8" />
+<img width="1012" height="612" alt="image" src="https://github.com/user-attachments/assets/12685986-f331-43b4-bf87-f3ab944ef6bf" />
+<img width="1026" height="612" alt="image" src="https://github.com/user-attachments/assets/e862702a-03ec-447c-a9f7-7642f8817c81" />
+
+
+
+
 --  
