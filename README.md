@@ -1,6 +1,8 @@
 # Banking & Loan Risk Intelligence Dashboard 🏦
 Power BI dashboard analyzing a ₹50.20Bn loan portfolio (10,000+ records) — tracking default rate (13.77%), high-risk exposure, and defaulted exposure using DAX, Power Query, and interactive drill-through reporting
 
+**** - Project developed as part of my Data Analytics role Credgenics.*
+
 An end-to-end Power BI solution for credit risk monitoring, portfolio analysis, and borrower segmentation — built on a loan portfolio of **10,000 customers** worth **₹50.20Bn**.
 
 ## 📊 Overview
